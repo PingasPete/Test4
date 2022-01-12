@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xcc313D7876dFf0bF3Fb06a9026d08bac66C88CE3",
+  "SCAN_LINK": "https://goerli.etherscan.io/address/0xcc313D7876dFf0bF3Fb06a9026d08bac66C88CE3",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "Eth",
+    "ID": 5
+  },
+  "NFT_NAME": "BitHangar Starship",
+  "SYMBOL": "Starship",
+  "MAX_SUPPLY": 100,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/bithangar-v3",
+  "SHOW_BACKGROUND": false
+}
